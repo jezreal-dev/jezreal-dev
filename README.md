@@ -18,8 +18,8 @@
   <a href="https://www.linkedin.com/in/jezreal-momoh">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn" />
   </a>
-  <a href="https://x.com/jezrealmomoh">
-    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" alt="Twitter" />
+  <a href="https://x.com/jezreal_dev">
+    <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=000000" alt="X" />
   </a>
   <a href="mailto:jezreelmomoh1234@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email" />
@@ -32,9 +32,9 @@
 ---
 
 ### ⚡ Executive Summary
-I am an **AI-Native Go Backend Engineer** and Systems Architect specializing in building scalable systems, high-concurrency REST APIs, and orchestrating multi-agent architectures.
+I am an **AI-Native Go Backend Engineer** and Systems Architect specializing in building scalable systems, high-concurrency REST APIs, and multi-agent architectures.
 
-My focus is on bridging the gap between advanced artificial intelligence and production-ready backend infrastructure. Whether it's a concurrent Go CLI over WebSockets, a serverless IoT pipeline, or an autonomous incident triage system, I build resilient products that solve real-world problems.
+I focus on building production-ready backend infrastructure and AI systems. From a concurrent Go CLI over WebSockets to a serverless IoT pipeline or an autonomous incident triage system, I ship code that solves real-world problems.
 
 ---
 
@@ -42,28 +42,28 @@ My focus is on bridging the gap between advanced artificial intelligence and pro
 
 #### 1. Autonomous SRE Incident Triage System (Google Capstone)
 * **Core Technology:** Go, Google Agent Development Kit (ADK), Model Context Protocol (MCP), LLMs
-* **Architecture:** Designed and shipped a multi-agent system that automates production incident diagnostics. The system triages issues autonomously, leveraging ADK and MCP to bridge AI reasoning with live telemetry data.
+* **Architecture:** Designed and shipped a multi-agent system that automates production incident diagnostics. The system triages issues autonomously using ADK and MCP to connect AI logic with live telemetry data.
 * **Status:** Capstone Project
 
-#### 2. ropa-sci — Cyber-Neon Multiplayer Go CLI Game
+#### 2. ropa-sci - Cyber-Neon Multiplayer Go CLI Game
 * **Core Technology:** Go, WebSockets, Bubble Tea, Lipgloss, Mutexes, JSON State Store
 * **Architecture:** Engineered a concurrent CLI Rock-Paper-Scissors gaming engine featuring an interactive TUI. Implemented real-time P2P multiplayer over WebSockets, thread-safe JSON persistence with RWMutex locks, and a predictive Markov Chain AI engine.
-* **Status:** Live — [Repository Link](https://github.com/jezreal-dev/ropa-sci)
+* **Status:** Live - [![Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/jezreal-dev/ropa-sci)
 
-#### 3. EduPilot — Intelligent School & Teacher Curriculum Copilot
+#### 3. EduPilot - Intelligent School & Teacher Curriculum Copilot
 * **Core Technology:** TypeScript, Next.js, TailwindCSS, Gemini API
-* **Architecture:** Led a team to win 1st place at IIHDevBox. Developed a modern web platform that parses complex school curriculum documentation, generates structured lessons, and auto-schedules timetables using generative AI to solve real infrastructure pain points.
-* **Status:** Live — [Repository Link](https://github.com/jezreal-dev/edupilot)
+* **Architecture:** Led a team to win 1st place at IIHDevBox. Developed a modern web platform that parses complex school curriculum documentation, generates structured lessons, and auto-schedules timetables to solve real infrastructure pain points.
+* **Status:** Live - [![Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/jezreal-dev/edupilot)
 
 #### 4. ASCII Art Web Generator & Go REST API
 * **Core Technology:** Go, Docker, GitHub Actions, CI/CD, Render
 * **Architecture:** Built and deployed a highly performant web server and REST API from scratch using Go that generates ASCII art. Engineered the entire DevOps pipeline, including containerization, automated testing, and CI/CD deployment.
 * **Status:** Live
 
-#### 5. VoltIQ — Real-Time AI-Powered EV Fleet Charging Engine
+#### 5. VoltIQ - Real-Time AI-Powered EV Fleet Charging Engine
 * **Core Technology:** Go, AWS Serverless (Lambda, API Gateway), Amazon Bedrock, DynamoDB, MQTT
 * **Architecture:** Engineered an IoT telematics pipeline ingesting high-frequency battery telemetry from fleet EVs via MQTT. Integrated LLM workflows to dynamically optimize charging schedules.
-* **Status:** Open Source — [Repository Link](https://github.com/jezreal-dev/VoltIQ)
+* **Status:** Open Source - [![Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/jezreal-dev/VoltIQ)
 
 ---
 
