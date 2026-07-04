@@ -1,14 +1,14 @@
 <!-- ==================== BANNER ==================== -->
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15,23,42,0,173,181&height=200&section=header&text=Jezreal%20Momoh&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0f172a,1e293b,ff5722&height=200&section=header&text=Jezreal%20Momoh&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32" />
 </p>
 
 <!-- ==================== TYPING ANIMATION ==================== -->
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00ADB5&center=true&vCenter=true&width=900&height=50&lines=Systems+Architect+%7C+Go+Engineer;AI-Native+Developer+%7C+AWS+Serverless;Cybersecurity+Researcher+%7C+TUI+Developer;Google+AI+Agents+Intensive+Fellow" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=FF5722&center=true&vCenter=true&width=900&height=50&lines=AI-Native+Go+Backend+Engineer;Systems+Architect+%7C+Multi-Agent+Orchestration;Building+Scalable+REST+APIs+%26+CLIs;Turning+Ideas+Into+Shipped+Products" alt="Typing SVG" />
   </a>
 </p>
 
@@ -24,69 +24,73 @@
   <a href="mailto:jezreelmomoh1234@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email" />
   </a>
-  <a href="https://orcid.org/0009-0007-2028-4679">
-    <img src="https://img.shields.io/badge/ORCID-Researcher-A6CE39?style=for-the-badge&logo=orcid&logoColor=white&labelColor=A6CE39" alt="ORCID" />
+  <a href="https://jezrealmomoh.com">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0F172A" alt="Portfolio" />
   </a>
 </p>
 
 ---
 
-### Executive Summary
-I am a Systems Architect and AI Engineer specializing in building high-concurrency, low-latency backend infrastructures in Go and Python, and orchestrating intelligent, AI-native serverless systems on AWS (IoT Core, Lambda, Bedrock).
+### ⚡ Executive Summary
+I am an **AI-Native Go Backend Engineer** and Systems Architect specializing in building scalable systems, high-concurrency REST APIs, and orchestrating multi-agent architectures.
 
-Currently, as a Learn2Earn Fellow and Google AI Agents Intensive attendee, I focus on transitioning workflows into intent-driven agentic architectures, evaluating open-source cybersecurity frameworks, and applying predictive analytics to IoT battery health management.
+My focus is on bridging the gap between advanced artificial intelligence and production-ready backend infrastructure. Whether it's a concurrent Go CLI over WebSockets, a serverless IoT pipeline, or an autonomous incident triage system, I build resilient products that solve real-world problems.
 
 ---
 
-### Featured Systems & Engagements
+### 🚀 Featured Systems & Engagements
 
-#### VoltIQ — Real-Time AI-Powered EV Fleet Charging Engine
-* **Core Technology:** Go, AWS Serverless (Lambda, API Gateway), Amazon Bedrock, DynamoDB, MQTT, TimeStream
-* **Architecture & Impact:** Engineered an IoT telematics pipeline that ingests high-frequency battery telemetry (voltage, temperature, SoC, SoH) from fleet electric vehicles via MQTT. Integrated LLM-based agentic workflows to optimize charging schedules dynamically, reducing peak-demand grid strain in Lagos, Nigeria by applying predictive battery management.
-* **Status:** Operational Prototype / Open Source — [Repository Link](https://github.com/jezreal-dev/VoltIQ)
+#### 1. Autonomous SRE Incident Triage System (Google Capstone)
+* **Core Technology:** Go, Google Agent Development Kit (ADK), Model Context Protocol (MCP), LLMs
+* **Architecture:** Designed and shipped a multi-agent system that automates production incident diagnostics. The system triages issues autonomously, leveraging ADK and MCP to bridge AI reasoning with live telemetry data.
+* **Status:** Capstone Project
 
-#### ropa-sci — Cyber-Neon Multiplayer TUI Gaming Platform
-* **Core Technology:** Go, WebSockets, Bubble Tea, Lipgloss, P2P Networking, JSON State Store
-* **Architecture & Impact:** Built a concurrent CLI Rock-Paper-Scissors gaming engine featuring an interactive cyber-neon terminal user interface (TUI). Designed a predictive game-theory AI engine and a thread-safe custom WebSocket server to handle low-latency real-time multiplayer states.
+#### 2. ropa-sci — Cyber-Neon Multiplayer Go CLI Game
+* **Core Technology:** Go, WebSockets, Bubble Tea, Lipgloss, Mutexes, JSON State Store
+* **Architecture:** Engineered a concurrent CLI Rock-Paper-Scissors gaming engine featuring an interactive TUI. Implemented real-time P2P multiplayer over WebSockets, thread-safe JSON persistence with RWMutex locks, and a predictive Markov Chain AI engine.
 * **Status:** Live — [Repository Link](https://github.com/jezreal-dev/ropa-sci)
 
-#### EduPilot — Intelligent School & Teacher Curriculum Copilot
-* **Core Technology:** TypeScript, Next.js 16, TailwindCSS, AWS, Gemini API
-* **Architecture & Impact:** Developed a modern web-based dashboard and API that parses complex school curriculum documentation, generates structured lessons, and auto-schedules school timetables using generative AI.
+#### 3. EduPilot — Intelligent School & Teacher Curriculum Copilot
+* **Core Technology:** TypeScript, Next.js, TailwindCSS, Gemini API
+* **Architecture:** Led a team to win 1st place at IIHDevBox. Developed a modern web platform that parses complex school curriculum documentation, generates structured lessons, and auto-schedules timetables using generative AI to solve real infrastructure pain points.
 * **Status:** Live — [Repository Link](https://github.com/jezreal-dev/edupilot)
 
-#### OWASP Evaluation & Cyber-Defense Lab
-* **Core Technology:** Linux, Docker, Network Auditing Tools, OWASP benchmarks
-* **Architecture & Impact:** Evaluated open-source security tools in sandboxed environments to build reproducible security blueprints. Documented practical, budget-conscious network configurations and secure coding recommendations to harden software supply chains.
-* **Status:** Research Portfolio — [Repository Link](https://github.com/jezreal-dev/owasp-evaluation)
+#### 4. ASCII Art Web Generator & Go REST API
+* **Core Technology:** Go, Docker, GitHub Actions, CI/CD, Render
+* **Architecture:** Built and deployed a highly performant web server and REST API from scratch using Go that generates ASCII art. Engineered the entire DevOps pipeline, including containerization, automated testing, and CI/CD deployment.
+* **Status:** Live
+
+#### 5. VoltIQ — Real-Time AI-Powered EV Fleet Charging Engine
+* **Core Technology:** Go, AWS Serverless (Lambda, API Gateway), Amazon Bedrock, DynamoDB, MQTT
+* **Architecture:** Engineered an IoT telematics pipeline ingesting high-frequency battery telemetry from fleet EVs via MQTT. Integrated LLM workflows to dynamically optimize charging schedules.
+* **Status:** Open Source — [Repository Link](https://github.com/jezreal-dev/VoltIQ)
 
 ---
 
-### Technical Capabilities Matrix
+### 🛠 Technical Capabilities Matrix
 
 | Domain | Expert Capabilities & Technologies |
 | :--- | :--- |
-| **Languages & Runtimes** | **Go (Golang)** [Primary Focus: Concurrency, Channels, Network I/O], Python, TypeScript, Bash |
-| **System Architecture** | Microservices, Event-Driven Architecture (EDA), P2P Protocols, RESTful APIs, WebSockets |
-| **AI & Orchestration** | Agentic Workflows, Amazon Bedrock, Google Gemini API, Prompt Engineering, LLM Function Calling |
-| **Cloud & Infrastructure** | AWS (IoT Core, DynamoDB, AWS Lambda, TimeStream), Docker, PostgreSQL, Git, GitHub Actions |
-| **Cybersecurity** | OWASP Security Testing, Cryptographic Implementations, Secure Code Analysis, Network Sandboxing |
+| **Backend & CLI** | **Go (Golang)** [Concurrency, Channels, Network I/O, Bubble Tea], Python, Bash |
+| **System Architecture** | RESTful APIs, WebSockets, Microservices, Event-Driven Architecture (EDA) |
+| **AI & Orchestration** | Agentic Workflows, Google GenAI SDK, Model Context Protocol (MCP), Amazon Bedrock |
+| **Cloud & DevOps** | Docker, CI/CD (GitHub Actions), AWS (IoT Core, Lambda), PostgreSQL |
 
 ---
 
-### GitHub Developer Analytics
+### 📊 GitHub Developer Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jezreal-dev&show_icons=true&theme=tokyonight&count_private=true" alt="Jezreal Momoh GitHub Stats" height="190">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jezreal-dev&layout=compact&theme=tokyonight&langs_count=6" alt="Jezreal Momoh Top Languages" height="190">
+  <img src="https://github-readme-stats.vercel.app/api?username=jezreal-dev&show_icons=true&bg_color=0f172a&title_color=FF5722&text_color=cbd5e1&icon_color=FF5722&border_color=1e293b&count_private=true" alt="Jezreal Momoh GitHub Stats" height="190">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jezreal-dev&layout=compact&bg_color=0f172a&title_color=FF5722&text_color=cbd5e1&border_color=1e293b&langs_count=6" alt="Jezreal Momoh Top Languages" height="190">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jezreal-dev&theme=tokyonight&background=0f172a" alt="Jezreal Momoh GitHub Streak" height="190">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jezreal-dev&background=0f172a&stroke=1e293b&ring=FF5722&fire=FF5722&currStreakNum=ffffff&currStreakLabel=cbd5e1&sideNums=ffffff&sideLabels=cbd5e1&dates=cbd5e1" alt="Jezreal Momoh GitHub Streak" height="190">
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jezreal-dev&color=00ADB5&style=flat-square" alt="Visitor Count">
+  <img src="https://komarev.com/ghpvc/?username=jezreal-dev&color=FF5722&style=flat-square" alt="Visitor Count">
 </p>
