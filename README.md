@@ -31,14 +31,14 @@
 
 ---
 
-### ⚡ Executive Summary
+### Executive Summary
 I am an **AI-Native Go Backend Engineer** and Systems Architect specializing in building scalable systems, high-concurrency REST APIs, and multi-agent architectures.
 
 I focus on building production-ready backend infrastructure and AI systems. From a concurrent Go CLI over WebSockets to a serverless IoT pipeline or an autonomous incident triage system, I ship code that solves real-world problems.
 
 ---
 
-### 🚀 Featured Systems & Engagements
+### Featured Systems & Engagements
 
 #### 1. Autonomous SRE Incident Triage System (Google Capstone)
 * **Core Technology:** Go, Google Agent Development Kit (ADK), Model Context Protocol (MCP), LLMs
@@ -67,7 +67,7 @@ I focus on building production-ready backend infrastructure and AI systems. From
 
 ---
 
-### 🛠 Technical Capabilities Matrix
+### Technical Capabilities Matrix
 
 | Domain | Expert Capabilities & Technologies |
 | :--- | :--- |
@@ -78,11 +78,11 @@ I focus on building production-ready backend infrastructure and AI systems. From
 
 ---
 
-### 📊 GitHub Developer Analytics
+### GitHub Developer Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jezreal-dev&show_icons=true&bg_color=0f172a&title_color=FF5722&text_color=cbd5e1&icon_color=FF5722&hide_border=true&count_private=true" alt="Jezreal Momoh GitHub Stats" height="190">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jezreal-dev&layout=compact&bg_color=0f172a&title_color=FF5722&text_color=cbd5e1&hide_border=true&langs_count=6" alt="Jezreal Momoh Top Languages" height="190">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=jezreal-dev&show_icons=true&bg_color=0f172a&title_color=FF5722&text_color=cbd5e1&icon_color=FF5722&hide_border=true" alt="Jezreal Momoh GitHub Stats" height="190">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jezreal-dev&layout=compact&bg_color=0f172a&title_color=FF5722&text_color=cbd5e1&hide_border=true&langs_count=6" alt="Jezreal Momoh Top Languages" height="190">
 </p>
 
 <p align="center">
