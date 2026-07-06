@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=FF5722&center=true&vCenter=true&width=900&height=50&lines=AI-Native+Go+Backend+Engineer;Systems+Architect+%7C+Multi-Agent+Orchestration;Building+Scalable+REST+APIs+%26+CLIs;Turning+Ideas+Into+Shipped+Products" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=FF5722&center=true&vCenter=true&width=900&height=50&lines=AI-Native+Software+Engineer;Systems+Architect+%7C+Multi-Agent+Orchestration;Building+Scalable+REST+APIs+%26+CLIs;Turning+Ideas+Into+Shipped+Products" alt="Typing SVG" />
   </a>
 </p>
 
@@ -32,9 +32,9 @@
 ---
 
 ### Executive Summary
-I am an **AI-Native Go Backend Engineer** and Systems Architect specializing in building scalable systems, high-concurrency REST APIs, and multi-agent architectures.
+I am an **AI-Native Software Engineer** and Systems Architect specializing in building scalable systems, high-concurrency REST APIs, and multi-agent architectures.
 
-I focus on building production-ready backend infrastructure and AI systems. From a concurrent Go CLI over WebSockets to a serverless IoT pipeline or an autonomous incident triage system, I ship code that solves real-world problems.
+I focus on building production-ready backend infrastructure and AI systems. From concurrent CLIs over WebSockets to serverless IoT pipelines or autonomous incident triage systems, I ship code that solves real-world problems.
 
 ---
 
@@ -71,7 +71,7 @@ I focus on building production-ready backend infrastructure and AI systems. From
 
 | Domain | Expert Capabilities & Technologies |
 | :--- | :--- |
-| **Backend & CLI** | **Go (Golang)** [Concurrency, Channels, Network I/O, Bubble Tea], Python, Bash |
+| **Core Languages** | TypeScript, Python, Go (Golang), Bash |
 | **System Architecture** | RESTful APIs, WebSockets, Microservices, Event-Driven Architecture (EDA) |
 | **AI & Orchestration** | Agentic Workflows, Google GenAI SDK, Model Context Protocol (MCP), Amazon Bedrock |
 | **Cloud & DevOps** | Docker, CI/CD (GitHub Actions), AWS (IoT Core, Lambda), PostgreSQL |
