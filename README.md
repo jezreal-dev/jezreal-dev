@@ -16,16 +16,16 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jezreal-momoh">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://x.com/jezreal_dev">
-    <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=000000" alt="X" />
+    <img src="https://img.shields.io/badge/X-Follow-000000?style=flat-square&logo=x&logoColor=white" alt="X" />
   </a>
   <a href="mailto:jezreelmomoh1234@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://jezrealmomoh.com">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0F172A" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit-FF5722?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
@@ -45,25 +45,25 @@ I focus on building production-ready backend infrastructure and AI systems. From
 * **Architecture:** Designed and shipped a multi-agent system that automates production incident diagnostics. The system triages issues autonomously using ADK and MCP to connect AI logic with live telemetry data.
 * **Status:** Capstone Project
 
-#### 2. ropa-sci - Cyber-Neon Multiplayer Go CLI Game
+#### 2. ropa-sci | Cyber-Neon Multiplayer Go CLI Game
 * **Core Technology:** Go, WebSockets, Bubble Tea, Lipgloss, Mutexes, JSON State Store
 * **Architecture:** Engineered a concurrent CLI Rock-Paper-Scissors gaming engine featuring an interactive TUI. Implemented real-time P2P multiplayer over WebSockets, thread-safe JSON persistence with RWMutex locks, and a predictive Markov Chain AI engine.
-* **Status:** Live - [![Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/jezreal-dev/ropa-sci)
+* **Status:** Live | [![Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/jezreal-dev/ropa-sci)
 
-#### 3. EduPilot - Intelligent School & Teacher Curriculum Copilot
+#### 3. EduPilot | Intelligent School Curriculum Copilot
 * **Core Technology:** TypeScript, Next.js, TailwindCSS, Gemini API
-* **Architecture:** Led a team to win 1st place at IIHDevBox. Developed a modern web platform that parses complex school curriculum documentation, generates structured lessons, and auto-schedules timetables to solve real infrastructure pain points.
-* **Status:** Live - [![Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/jezreal-dev/edupilot)
+* **Architecture:** Led a team to win 1st place at IIHDevBox. Developed a modern web platform that parses complex school curriculum documentation, generates structured lessons, and auto-schedules timetables to solve real infrastructure bottlenecks.
+* **Status:** Live | [![Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/jezreal-dev/edupilot)
 
 #### 4. ASCII Art Web Generator & Go REST API
 * **Core Technology:** Go, Docker, GitHub Actions, CI/CD, Render
 * **Architecture:** Built and deployed a highly performant web server and REST API from scratch using Go that generates ASCII art. Engineered the entire DevOps pipeline, including containerization, automated testing, and CI/CD deployment.
 * **Status:** Live
 
-#### 5. VoltIQ - Real-Time AI-Powered EV Fleet Charging Engine
+#### 5. VoltIQ | Real-Time AI-Powered EV Fleet Charging Engine
 * **Core Technology:** Go, AWS Serverless (Lambda, API Gateway), Amazon Bedrock, DynamoDB, MQTT
 * **Architecture:** Engineered an IoT telematics pipeline ingesting high-frequency battery telemetry from fleet EVs via MQTT. Integrated LLM workflows to dynamically optimize charging schedules.
-* **Status:** Open Source - [![Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/jezreal-dev/VoltIQ)
+* **Status:** Open Source | [![Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/jezreal-dev/VoltIQ)
 
 ---
 
@@ -81,12 +81,12 @@ I focus on building production-ready backend infrastructure and AI systems. From
 ### 📊 GitHub Developer Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jezreal-dev&show_icons=true&bg_color=0f172a&title_color=FF5722&text_color=cbd5e1&icon_color=FF5722&border_color=1e293b&count_private=true" alt="Jezreal Momoh GitHub Stats" height="190">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jezreal-dev&layout=compact&bg_color=0f172a&title_color=FF5722&text_color=cbd5e1&border_color=1e293b&langs_count=6" alt="Jezreal Momoh Top Languages" height="190">
+  <img src="https://github-readme-stats.vercel.app/api?username=jezreal-dev&show_icons=true&bg_color=0f172a&title_color=FF5722&text_color=cbd5e1&icon_color=FF5722&hide_border=true&count_private=true" alt="Jezreal Momoh GitHub Stats" height="190">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jezreal-dev&layout=compact&bg_color=0f172a&title_color=FF5722&text_color=cbd5e1&hide_border=true&langs_count=6" alt="Jezreal Momoh Top Languages" height="190">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jezreal-dev&background=0f172a&stroke=1e293b&ring=FF5722&fire=FF5722&currStreakNum=ffffff&currStreakLabel=cbd5e1&sideNums=ffffff&sideLabels=cbd5e1&dates=cbd5e1" alt="Jezreal Momoh GitHub Streak" height="190">
+  <img src="https://streak-stats.demolab.com/?user=jezreal-dev&background=0f172a&stroke=0f172a&ring=FF5722&fire=FF5722&currStreakNum=ffffff&currStreakLabel=cbd5e1&sideNums=ffffff&sideLabels=cbd5e1&dates=cbd5e1&hide_border=true" alt="Jezreal Momoh GitHub Streak" height="190">
 </p>
 
 ---
