@@ -129,19 +129,21 @@ Having completed the **MIT Open Learning "Universal AI"** curriculum under 3MTT,
 
 ---
 
+<!-- ==================== GITHUB DEVELOPER ANALYTICS ==================== -->
+
 ### GitHub Developer Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jezreal-dev&show_icons=true&theme=tokyonight&count_private=true" alt="Jezreal Momoh GitHub Stats" height="190">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jezreal-dev&layout=compact&theme=tokyonight&langs_count=6" alt="Jezreal Momoh Top Languages" height="190">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=jezreal-dev&show_icons=true&theme=tokyonight&count_private=true" alt="Jezreal Momoh GitHub Stats" height="190" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jezreal-dev&layout=compact&theme=tokyonight&langs_count=6" alt="Jezreal Momoh Top Languages" height="190" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jezreal-dev&theme=tokyonight&background=0f172a" alt="Jezreal Momoh GitHub Streak" height="190">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jezreal-dev&theme=tokyo-night" alt="Jezreal Momoh GitHub Activity Graph" width="100%" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jezreal-dev&color=00ADB5&style=flat-square" alt="Visitor Count">
+  <img src="https://komarev.com/ghpvc/?username=jezreal-dev&color=00ADB5&style=flat-square" alt="Visitor Count" />
 </p>
