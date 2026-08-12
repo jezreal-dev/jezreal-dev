@@ -95,7 +95,7 @@ Having completed the **MIT Open Learning "Universal AI"** curriculum under 3MTT,
 
 ---
 
-<!-- ==================== TECH STACK BADGES (HORIZONTAL COMPACT) ==================== -->
+<!-- ==================== ESSENTIAL 9-BADGE TECH STACK ==================== -->
 
 ### Technical Capabilities & Engineering Stack
 
@@ -103,12 +103,7 @@ Having completed the **MIT Open Learning "Universal AI"** curriculum under 3MTT,
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/AMD%20ROCm-ED1C24?style=for-the-badge&logo=amd&logoColor=white" alt="AMD ROCm" />
-  <img src="https://img.shields.io/badge/Amazon%20Bedrock-FF9900?style=for-the-badge&logo=amazon&logoColor=white" alt="Amazon Bedrock" />
-  <img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Gemini" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Next.js%2016-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js 16" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
@@ -123,7 +118,7 @@ Having completed the **MIT Open Learning "Universal AI"** curriculum under 3MTT,
 | Domain | Primary Focus & Verified Codebase Stack |
 | :--- | :--- |
 | **Languages & Runtimes** | **Go (Golang)** [High-concurrency backends, goroutines, channels, low-latency I/O] • **Python** [AI/ML modeling, PyTorch, medical computer vision] • **TypeScript** [Next.js 16 web dashboards] |
-| **AI & Machine Learning** | Local LLM hardware acceleration (vLLM, AMD ROCm 7.2.1), multi-agent architectures (LangGraph), HAIM clinical embeddings, Amazon Bedrock, Gemini API |
+| **AI & Machine Learning** | PyTorch, HAIM clinical embeddings, local LLM routing, LangGraph multi-agent systems, Amazon Bedrock, Gemini API |
 | **Distributed Systems & Cloud** | AWS Serverless (IoT Core, Lambda, DynamoDB, TimeStream), P2P WebSockets, Event-Driven Architecture (EDA), Docker containerization |
 | **Cybersecurity & Defense** | OWASP vulnerability benchmarks, cryptographic protocol implementations, network sandboxing, secure code reviews |
 
@@ -135,7 +130,7 @@ Having completed the **MIT Open Learning "Universal AI"** curriculum under 3MTT,
 
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=jezreal-dev&show_icons=true&theme=tokyonight&count_private=true" alt="Jezreal Momoh GitHub Stats" height="190" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jezreal-dev&layout=compact&theme=tokyonight&langs_count=6" alt="Jezreal Momoh Top Languages" height="190" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jezreal-dev&layout=compact&theme=tokyonight&langs_count=6&hide=Jupyter%20Notebook,C,HTML,CSS" alt="Jezreal Momoh Top Languages" height="190" />
 </p>
 
 <p align="center">
