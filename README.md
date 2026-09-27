@@ -12,23 +12,6 @@
   </a>
 </p>
 
-<!-- ==================== BADGES ==================== -->
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/jezreal-momoh">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.linkedin.com/in/jezreal-momoh/details/certifications/">
-    <img src="https://img.shields.io/badge/Certifications-LinkedIn%20Verified-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Certifications" />
-  </a>
-  <a href="https://x.com/jezrealmomoh">
-    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="mailto:jezreelmomoh1234@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
 ---
 
 ### Executive Summary
