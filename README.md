@@ -1,37 +1,25 @@
 <!-- ==================== HEADER BANNER ==================== -->
-
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15,23,42,13,148,136,0,173,181&height=200&section=header&text=Jezreal%20Momoh&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32" />
+  <img width="100%" src="https://vercel.app" />
 </p>
 
 <!-- ==================== TYPING ANIMATION ==================== -->
-
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00ADB5&center=true&vCenter=true&width=900&height=50&lines=Software+Engineer+%26+AI%2FML+Engineer;Go+Systems+%7C+Python+AI%2FML;Local+LLM+Routing+%26+Multi-Agent+Architecture;Medical+Computer+Vision+%26+PyTorch" alt="Typing SVG" />
+  <a href="https://github.com">
+    <img src="https://demolab.com" alt="Typing SVG" />
   </a>
 </p>
 
 <!-- ==================== BADGES ==================== -->
-
 <p align="center">
-  <a href="https://jezrealmomoh.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-jezrealmomoh.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  <a href="https://linkedin.com">
+    <img src="https://shields.io" alt="LinkedIn" />
   </a>
-  <a href="https://www.linkedin.com/in/jezreal-momoh">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.linkedin.com/in/jezreal-momoh/details/certifications/">
-    <img src="https://img.shields.io/badge/Certifications-LinkedIn%20Verified-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Certifications" />
-  </a>
-  <a href="https://x.com/jezrealmomoh">
-    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  <a href="https://linkedin.com/details/certifications/">
+    <img src="https://shields.io" alt="LinkedIn Certifications" />
   </a>
   <a href="mailto:jezreelmomoh1234@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://orcid.org/0009-0007-2028-4679">
-    <img src="https://img.shields.io/badge/ORCID-Researcher-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" />
+    <img src="https://shields.io" alt="Email" />
   </a>
 </p>
 
@@ -39,106 +27,65 @@
 
 ### Executive Summary
 
-I am a **Software Engineer and AI/ML Engineer** operating at the intersection of high-concurrency **Go** backends and **Python** AI/ML infrastructure. My work focuses on building low-latency distributed microservices alongside local LLM routers, multi-agent systems, and medical computer vision pipelines.
+I am an **AI Systems Engineer and Multi-Agent Architect** operating at the intersection of high-concurrency **Go** server components and **Python** AI/ML infrastructure. Currently architecting production backend components, structured-output pipelines, and optimized LLM routing workflows as a Backend AI Engineer Intern at **FlyRank AI** and Technical Lead at **Builders Collective Africa**.
 
-Having completed the **MIT Open Learning "Universal AI"** curriculum under 3MTT, I combine low-level systems engineering with modern AI research (PyTorch, vLLM, AMD ROCm, HAIM clinical embeddings) to solve performance, cost, and reliability bottlenecks in modern software.
-
-*Currently open for Software Engineering, AI/ML Engineering, and Systems Architecture opportunities.*
+My methodology is backed by a B.Sc. in Computer Science from Ambrose Alli University, deep application training through the Learn2Earn NG Fellowship, and completion of the 19-module Universal AI curriculum developed by **MIT Open Learning**. I combine low-level systems engineering with modern AI routing paradigms and agile delivery methodologies—holding certified credentials in **Scrum Fundamentals (SFC™)** and **Kanban Essentials (KEC™)**.
 
 ---
 
-### Featured Systems & Architectural Showcase
+### Featured Core Systems & Architectures
 
-#### 1. AI Infrastructure & Multi-Agent Engines
+#### 1. AI Infrastructure & Multi-Agent Platforms
 
-**GemmaRoute — 4-Layer Hybrid AI Routing Engine**  
-* **Core Stack:** Python, Next.js 16, TypeScript, AMD ROCm, Fireworks AI  
-* **Architecture & Impact:** Built an intelligent 4-layer AI query router that cuts LLM API costs by up to 80%. Routes routine queries through local Gemma 2B running on AMD ROCm for free execution, escalating to cloud models (Fireworks AI) only when quality judges demand higher reasoning.  
-* **Repository:** [jezreal-dev/gemmaroute](https://github.com/jezreal-dev/gemmaroute) | [Frontend Dashboard](https://github.com/jezreal-dev/gemmaroute-frontend)
-
-**Themis — Autonomous AI Legal & Risk Analysis Platform**  
+**Themis — Autonomous AI Legal Risk Platform**  
 * **Core Stack:** Python, LangGraph, vLLM, AMD Radeon PRO W7900D (ROCm 7.2.1)  
-* **Architecture & Impact:** Architected a multi-agent legal risk analysis engine utilizing vLLM speculative decoding on AMD hardware. Implemented parallel LangGraph agents to parse complex compliance documents and identify regulatory risks.  
-* **Repository:** [jezreal-dev/themis](https://github.com/jezreal-dev/themis)
+* **Architecture:** Multi-agent evaluation engine utilizing vLLM speculative decoding with a 1.5B draft model to run high-throughput compliance audits on structured documents. Implemented parallel LangGraph agents to decouple code parsing and static rule checking before running a unified state reduction.
+
+**GemmaRoute — Hardware-Aware LLM Router Engine**  
+* **Core Stack:** Python, FastAPI, Docker, AMD ROCm, Fireworks AI  
+* **Architecture:** Open-source, high-performance LLM orchestration engine designed to optimize inference costs and latency. Built as an intelligent dispatching layer for multi-agent systems, classifying query complexity to route routine requests to local hardware and escalating to cloud models only when required.
+
+**SupportShield AI — Zero-Trust Enterprise Support Middleware**  
+* **Core Stack:** Python, Next.js, FastAPI, Vercel Serverless, Fireworks AI (DeepSeek)  
+* **Architecture:** A customer support assistant built for secure IT troubleshooting. Features a dual-pass processing framework called "L2E-Shield" that intercepts user payloads, redacts PII data locally via automated scrubbers, and runs an intent routing loop to block prompt injection attempts before generation.
 
 ---
 
-#### 2. Medical AI & Computer Vision Research
+#### 2. High-Impact Full-Stack Systems & Foundations
 
-**RSNA Knee Abnormality Detection — Multimodal Clinical AI**  
-* **Core Stack:** Python, PyTorch, HAIM Embeddings, Computer Vision, DICOM  
-* **Architecture & Impact:** Developed a multimodal medical AI pipeline combining HAIM (Holistic AI in Medicine) clinical embeddings with 3D MRI volume processing to detect structural knee abnormalities and assist diagnostic workflows.  
-* **Repository:** [jezreal-dev/rsna-knee-haim-multimodal](https://github.com/jezreal-dev/rsna-knee-haim-multimodal)
+**EduPilot — AI-Powered Lesson Planning Engine [1st Place Hackathon Winner]**  
+* **Core Stack:** TypeScript, Next.js, Docker, PostgreSQL, GitHub Actions  
+* **Architecture:** Full-stack copilot that automatically processes raw curriculum standards into structured lesson blocks, solving administrative infrastructure pain points observed during national educational service. Engineered a complete CI/CD pipeline with automated testing.
 
----
+**CleanPadi — Inclusive Civic Waste Management Engine [1st Place Hackathon Winner]**  
+* **Core Stack:** TypeScript, HTML/CSS, Vanilla JavaScript, WhatsApp API, USSD Gateway  
+* **Architecture:** Multi-interface community waste management platform built for Kwara State that integrates formal municipal waste systems with informal local collectors. Includes a functional client-side JavaScript state-machine to accurately simulate localized cellular USSD menu structures (*347*7723#).
 
-#### 3. IoT Telematics & Serverless Infrastructure
-
-**VoltIQ — Real-Time AI-Powered EV Fleet Charging Engine**  
-* **Core Stack:** Go, AWS Serverless (Lambda, DynamoDB, TimeStream), Amazon Bedrock, MQTT  
-* **Architecture & Impact:** Engineered an IoT telematics pipeline ingesting high-frequency battery telemetry (voltage, temperature, SoC, SoH) from fleet electric vehicles via MQTT. Integrated LLM agentic workflows to optimize charging schedules dynamically, reducing peak-demand grid strain in Lagos, Nigeria.  
-* **Repository:** [jezreal-dev/VoltIQ](https://github.com/jezreal-dev/VoltIQ)
+**ropa-sci — Cyber-Neon Multiplayer TUI Platform**  
+* **Core Stack:** Go (Golang), WebSockets, Bubble Tea, Lipgloss, P2P Networking  
+* **Architecture:** Concurrent CLI gaming server featuring an interactive terminal user interface. Designed a predictive game-theory AI engine and a thread-safe custom WebSocket persistence layer utilizing RWMutex locks to prevent data races during real-time multi-user states.
 
 ---
-
-#### 4. High-Concurrency Go Systems & Impact Platforms
-
-**ropa-sci — Cyber-Neon Multiplayer TUI Gaming Platform**  
-* **Core Stack:** Go, WebSockets, Bubble Tea, Lipgloss, P2P Networking  
-* **Architecture & Impact:** Built a concurrent CLI gaming engine featuring an interactive cyber-neon terminal user interface (TUI). Designed a predictive game-theory AI engine and thread-safe custom WebSocket server for real-time multiplayer states.  
-* **Repository:** [jezreal-dev/ropa-sci](https://github.com/jezreal-dev/ropa-sci)
-
-**CleanPadi — Inclusive Multi-Channel Waste Management Platform**  
-* **Core Stack:** TypeScript, HTML/CSS, WhatsApp API, USSD Gateway  
-* **Architecture & Impact:** Developed a multi-channel platform connecting households to verified waste collectors in Ilorin, Kwara State. Built for Hack4Dev to improve urban sanitation accessibility.  
-* **Repository:** [jezreal-dev/CleanPadi](https://github.com/jezreal-dev/CleanPadi)
-
----
-
-<!-- ==================== ESSENTIAL 9-BADGE TECH STACK ==================== -->
 
 ### Technical Capabilities & Engineering Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Next.js%2016-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js 16" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://shields.io" alt="Go" />
+  <img src="https://shields.io" alt="Python" />
+  <img src="https://shields.io" alt="TypeScript" />
+  <img src="https://shields.io" alt="LangGraph" />
+  <img src="https://shields.io" alt="FastAPI" />
+  <img src="https://shields.io" alt="Next.js" />
+  <img src="https://shields.io" alt="Docker" />
+  <img src="https://shields.io" alt="PostgreSQL" />
+  <img src="https://shields.io" alt="Linux" />
 </p>
-
----
 
 #### Engineering Competencies Matrix
 
 | Domain | Primary Focus & Verified Codebase Stack |
 | :--- | :--- |
-| **Languages & Runtimes** | **Go (Golang)** [High-concurrency backends, goroutines, channels, low-latency I/O] • **Python** [AI/ML modeling, PyTorch, medical computer vision] • **TypeScript** [Next.js 16 web dashboards] |
-| **AI & Machine Learning** | PyTorch, HAIM clinical embeddings, local LLM routing, LangGraph multi-agent systems, Amazon Bedrock, Gemini API |
-| **Distributed Systems & Cloud** | AWS Serverless (IoT Core, Lambda, DynamoDB, TimeStream), P2P WebSockets, Event-Driven Architecture (EDA), Docker containerization |
-| **Cybersecurity & Defense** | OWASP vulnerability benchmarks, cryptographic protocol implementations, network sandboxing, secure code reviews |
-
----
-
-<!-- ==================== GITHUB DEVELOPER ANALYTICS ==================== -->
-
-### GitHub Developer Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=jezreal-dev&show_icons=true&theme=tokyonight&count_private=true" alt="Jezreal Momoh GitHub Stats" height="190" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jezreal-dev&layout=compact&theme=tokyonight&langs_count=6&hide=Jupyter%20Notebook,C,HTML,CSS" alt="Jezreal Momoh Top Languages" height="190" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jezreal-dev&theme=tokyo-night" alt="Jezreal Momoh GitHub Activity Graph" width="100%" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jezreal-dev&color=00ADB5&style=flat-square" alt="Visitor Count" />
-</p>
+| **Languages & Runtimes** | **Go (Golang)** [High-concurrency systems, standard library text tokenizers, pointer validation] • **Python** [AI/ML pipeline modeling, FastAPI, data serialization layers] • **TypeScript** [Next.js App Router, type-safe web dashboards] |
+| **AI Systems Engineering** | Local LLM optimization, vLLM speculative decoding, multi-agent graph topologies, semantic model routing, and vector-backed RAG pipelines. |
+| **Distributed Systems & Cloud** | Event-driven backend architectures, stream processing, P2P WebSockets, Docker containerization, and serverless Vercel/Render deployments. |
+| **Operations & Quality** | OWASP security evaluation benchmarks, custom PII parsing filters, and Agile software delivery backed by certified **Scrum (SFC™)** and **Kanban (KEC™)** frameworks. |
